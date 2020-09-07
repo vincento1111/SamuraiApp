@@ -6,5 +6,8 @@ namespace SamuraiApp.Domain
     {
         //
         //branch 2
+
+
+        //stor kode stump
     }
 }
